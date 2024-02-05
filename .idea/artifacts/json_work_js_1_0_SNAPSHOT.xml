@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="json_work-js-1.0-SNAPSHOT">
+    <output-path>C:\Users\Asus\Desktop\json_work\build\libs</output-path>
+    <root id="archive" name="json_work-js-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="json_work.jsMain" />
+    </root>
+  </artifact>
+</component>
